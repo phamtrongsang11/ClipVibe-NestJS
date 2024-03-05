@@ -7,7 +7,9 @@ Chatter Box App is a Discord-based system that allows you to chat and hold meeti
 
 <img src="https://github.com/phamtrongsang11/ClipVibe-NestJS/assets/101312630/8314738f-6fd1-4d37-82d2-e42fb78b1ac9" width="100%" height="100%">
 
+
 <img src="https://github.com/phamtrongsang11/ClipVibe-NestJS/assets/101312630/ddc93cdd-016b-4829-8d8e-16ff08fed75b" width="100%" height="100%">
+
 
 ## Geting start
 Frontend Repo: https://github.com/phamtrongsang11/ClipVibe-React
